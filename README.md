@@ -1,4 +1,4 @@
-# 🥛 Dairy Management System in C
+# 🧾 Dairy Management System in C
 
 A comprehensive Dairy Management System built in C programming language, designed to manage dairy operations efficiently.
 
@@ -53,4 +53,5 @@ For any queries or feedback, feel free to reach out:
 ## 🙋‍♂️ Author
 
 👤 **Danish Qureshi**  
+
 🔗 [Portfolio](https://danish-qureshi.vercel.app/) | [GitHub](https://github.com/Daniish-Qureshi) | [LinkedIn](https://www.linkedin.com/in/danishqureshi786/)
